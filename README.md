@@ -58,8 +58,8 @@ To run these notebooks locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+    git clone https://github.com/nikhilgodalla/ObesityDataScience.git
+    cd ObesityDataScience
    ```
 
 2. Launch Jupyter Notebook:
