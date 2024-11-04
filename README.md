@@ -12,9 +12,7 @@ This repository contains a series of Jupyter notebooks that explore various mach
   - [Combined Report](#4-combined-report)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
+- [License](#MIT-License)
 
 ## Project Overview
 
@@ -101,10 +99,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/31063038/b37ce9ba-e177-4878-850b-03beeb785121/ML-Data-Cleaning-and-Feature-Selection.ipynb
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/31063038/9a41d41c-711e-4bc9-890d-ef35a52af376/Model_Interpretability.ipynb
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/31063038/c936a34a-cc8c-44af-beea-3a8a394e0635/Auto_ML_NikhilGodalla.ipynb
-[4] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/31063038/4af6ef3f-9866-4d48-b944-740ff29679f5/Combine_Report.ipynb
